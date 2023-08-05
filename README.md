@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vit lukhi</h1>
+![image](https://github.com/vitlukhi1011/vitlukhi1011/assets/141482903/39cc67cf-a247-4010-9f05-472c5c573aa5)<h1 align="center">Hi 👋, I'm Vit lukhi</h1>
 <h3 align="center">A passionate Engineer from India</h3>
-<img align="right" alt="abc" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F361273201357568988%2F&psig=AOvVaw3j0dPBJUpDGfAkDpgSV4v_&ust=1691315578070000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCZntSfxYADFQAAAAAdAAAAABA6">
+<img align="right" alt="working" width="100" src="https://static.wixstatic.com/media/bd0a9d_7ea3fad90c0c4cfb92c963f44f28bc1a~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitlukhi1011&label=Profile%20views&color=0e75b6&style=flat" alt="vitlukhi1011" /> </p>
 
