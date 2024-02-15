@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitlukhi1011&label=Profile%20views&color=0e75b6&style=flat" alt="vitlukhi1011" /> </p>
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning ** VLSI DESIGN **
 
 - 📫 How to reach me **vitlukhi12345@gmail.com**
 
